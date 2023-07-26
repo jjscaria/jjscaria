@@ -1,7 +1,7 @@
 <div align="center">
 <h2> Hi, I'm Jithin! <img src="https://github.com/jjscaria/jjscaria/blob/master/Hi.gif" width="30"></h2>
 
-I am a focused individual who is trying to solve today's problems using engineering skills with passion for learning and developing.
+I am a focused individual who is trying to solve today's problems using engineering skills, with passion for learning and developing.
 
 <h3> Let's talk! <img src="https://github.com/jjscaria/jjscaria/blob/master/handshake.gif" width ="60"></h3>
 
