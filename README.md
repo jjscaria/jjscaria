@@ -3,7 +3,7 @@
 
 I am a System/DevOps/Platform Engineer trying to solve today's problems using engineering skills.
 
-<h3> Let's talk! <img src="https://github.com/jjscaria/jjscaria/blob/master/handshake.gif" width ="60"></h3>
+<h3> Let's talk! </h3>
 
 <a href="https://jjscaria.com/" target="_blank">
 <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
