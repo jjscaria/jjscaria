@@ -1,20 +1,12 @@
 <div align="center">
-<h2> Hi, I'm Jithin! <img src="https://github.com/jjscaria/jjscaria/blob/master/Hi.gif" width="30"></h2>
+<h2> Hi, I'm Jithin! <img src="" width="30"></h2>
 
 I am a System/DevOps Engineer trying to solve today's problems using engineering skills.
 
 <h3> Let's talk! </h3>
 
 <a href="https://jjscaria.com/" target="_blank">
-<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-</a>
-
-<a href="mailto:jobs@jjscaria.com" target="_blank">
-<img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/jjscaria" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WEBSITE-8A2BE2?style=for-the-badge&logo=egghead&logoColor=white"/>
 </a>
 </div>
 
